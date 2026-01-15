@@ -1,4 +1,4 @@
-# Hey 😎 Glad you're here.
+# Hey! 😎 Glad you're here.
 
 I am Tatu, a final year Computer Science and Engineering Bachelor student from University of Oulu. Currenlty writing my Bachelor's thesis with Cybersecurity in mind, which will be my focus on my Master's degree.
 
