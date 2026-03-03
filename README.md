@@ -25,17 +25,21 @@ I am Tatu, a final-year Computer Science and Engineering Bachelor's student at t
   <img src="icons/rust.svg" width="48px">
   <img src="icons/sql.svg" width="50px">
   <img src="icons/visual-studio.svg" width="50px">
-</div>
-
-
-### Currently learning
-<div>
   <img src="icons/android.svg" width="50px">
   <img src="icons/fastapi.svg" width="50px">
   <img src="icons/kotlin.svg" width="50px">
   <img src="icons/vr-set.svg" width="50px">
 </div>
 
+
+### Currently learning
+<div>
+  <img src="icons/c++.svg" width="50px">
+</div>
+
+
+## Finished Projects ✔️
+- [PhotoDiary](https://github.com/turvasa/mobile-computing) a Kotlin (Jetpack Compose) on Android devices with Room Database and API implementations
 
 
 ## Ongoing works 👨‍💻
@@ -44,4 +48,3 @@ I am Tatu, a final-year Computer Science and Engineering Bachelor's student at t
   - [Meme Database](https://github.com/turvasa-ko/meme-database) a Java API with dynamic searching
 - Writing Bachelor's thesis about "Creating and Testing Security Statements"
 - Ongoing Cybersecurity courses: Information Security
-- Learning about mobile computing and XR-systems
